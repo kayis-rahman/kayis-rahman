@@ -13,6 +13,10 @@
 
 <br />
 
+<table>
+  <tbody>
+    <tr>
+      <td>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 2d Game.
@@ -24,8 +28,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Idyllic 
 - ⚡ Fun fact: I don't know.
 -->
-
-
+      </td>
+      <td>
+        
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kayis-rahman&show_icons=true&theme=gotham" alt="kayis-rahman" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kayis-rahman&show_icons=true&theme=gotham" alt="kayis-rahman" /> 
+    </tr>
