@@ -14,7 +14,7 @@
 <br />
 
 <table>
-  <tbody border ="0">
+  <tbody border ="none">
     <tr>
       <td>
 Here are some ideas to get you started:
