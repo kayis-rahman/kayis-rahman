@@ -3,10 +3,10 @@
   <img align="left" alt="Kayis Rahman | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kayisrahman/">
-  <img align="left" alt="Kayis Rahman | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Kayis Rahman | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/kayisrahman">
-  <img align="left" alt="Kayis Rahman | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Kayis Rahman | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kayis-rahman)
@@ -15,14 +15,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 2d Game.
+- 🌱 I’m currently learning Unity.
+- 👯 I’m looking to collaborate on first game, Ping me if your intrested.
+- 🤔 I’m looking for help with Desgining.
+- 💬 Ask me about something weird.
+- 📫 How to reach me: Send a message to any of the above platforms.
+- 😄 Pronouns: Idyllic 
+- ⚡ Fun fact: I don't know.
 -->
 
 
