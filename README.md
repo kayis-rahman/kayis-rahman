@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kayis-rahman&show_icons=true&theme=gotham" alt="kayis-rahman" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kayis-rahman&show_icons=true&theme=gotham" alt="kayis-rahman" />
