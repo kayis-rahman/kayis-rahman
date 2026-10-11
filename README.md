@@ -14,8 +14,8 @@ My core stack is Java and Spring Boot, with Go and Swift in personal projects. I
 
 ## Selected projects
 
-- [Synapse](https://github.com/kayis-rahman/synapse) — a self-hosted AI proxy experiment, routing requests between local models and a vLLM server.
-- [Time Beam](https://github.com/kayis-rahman/time-beam) — a Pomodoro timer for iOS with an adaptive, LLM-powered focus experience.
+- [Synapse](https://github.com/kayis-rahman/synapse) — a privacy-first, on-device task manager using Apple Foundation Models for task triage.
+- [Time Beam](https://github.com/kayis-rahman/time-beam) — a cross-platform Pomodoro timer for focused work.
 - [Swing Trade](https://github.com/kayis-rahman/swing-trade) — an automated NSE/BSE swing-trading system; technical signals drive trades, with LLM sentiment as an input.
 
 Other projects: [Productiva](https://github.com/kayis-rahman/productiva) · [Ironveil Site](https://github.com/kayis-rahman/ironveil-site) · [Android App](https://github.com/kayis-rahman/andorid-app) · [all public repositories →](https://github.com/kayis-rahman?tab=repositories)
