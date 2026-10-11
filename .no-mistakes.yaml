@@ -1,0 +1,2 @@
+# This repository has no configured CI checks; local no-mistakes validation is the trusted evidence.
+no_ci: true
