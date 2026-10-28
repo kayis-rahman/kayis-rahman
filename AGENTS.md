@@ -1,0 +1,4 @@
+- README changes: follow profile-readme-authoring for section order, formatting, tone, and text-first layout.
+- Featured project copy: verify repository facts first; follow featured-project-evidence.
+- This repository has no CI; README changes are validated through no-mistakes plus a live GitHub Markdown render and link check.
+- Do not add badges, stats cards, GIFs, HTML, or relative links to the profile README.
